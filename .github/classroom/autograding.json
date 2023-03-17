@@ -1,0 +1,84 @@
+{
+  "tests": [
+    {
+      "name": "Performance",
+      "setup": "npm install",
+      "run": "npm run test-performance",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Best Practices",
+      "setup": "npm install",
+      "run": "npm run test-best-practices",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "SEO",
+      "setup": "npm install",
+      "run": "npm run test-seo",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Accessibility",
+      "setup": "npm install",
+      "run": "npm run test-a11y",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "HTML Validation",
+      "setup": "npm install",
+      "run": "npm run test-html",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Link Validation",
+      "setup": "npm install",
+      "run": "npm run test-links",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Required fields",
+      "setup": "npm install",
+      "run": "npm run test-email",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Console errors and assertions",
+      "setup": "npm install",
+      "run": "npm run test-assert",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
